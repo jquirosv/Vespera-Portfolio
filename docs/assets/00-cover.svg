@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Véspera Calendar — Your days, your way.</title>
+  <desc id="desc">The original Véspera crescent and calendar mark, with a navy and lavender presentation for the Android calendar.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202638"/><stop offset="1" stop-color="#30314E"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#BCB1E5" stop-opacity=".16"/><stop offset="1" stop-color="#BCB1E5" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="440" rx="24" fill="url(#canvas)"/>
+  <circle cx="202" cy="227" r="270" fill="url(#halo)"/>
+  <path d="M1000 -80Q810 190 1230 430" fill="none" stroke="#BCB1E5" stroke-opacity=".10" stroke-width="2"/>
+  <path d="M1070 -80Q880 190 1300 430" fill="none" stroke="#BCB1E5" stroke-opacity=".07" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="54" font-size="14" letter-spacing="3" fill="#CEC6E7">ANDROID · PRODUCT &amp; ENGINEERING</text>
+    <rect x="1040" y="28" width="102" height="34" rx="17" fill="#BCB1E5" fill-opacity=".12" stroke="#BCB1E5" stroke-opacity=".25"/>
+    <text x="1091" y="50" text-anchor="middle" font-size="15" fill="#F1F0F6">v1.1.0</text>
+    <text x="410" y="151" font-size="55" font-weight="600" fill="#F8F6FF">Véspera Calendar</text>
+    <text x="412" y="212" font-size="32" fill="#D4CBEF">Your days, your way.</text>
+    <text x="414" y="263" font-size="19" fill="#CFD1DD">Everyday plans. Meaningful dates.</text>
+    <text x="414" y="291" font-size="19" fill="#CFD1DD">A calendar that feels like yours.</text>
+    <path d="M414 326H1128" stroke="#BCB1E5" stroke-opacity=".24"/>
+    <text x="414" y="359" font-size="13" letter-spacing="1.5" fill="#BCB1E5">LOCAL CALENDAR · PERSONAL STYLES · FULL BACKUPS</text>
+    <text x="56" y="405" font-size="16" fill="#AEB3C7">Created by José Pablo Quirós Vásquez</text>
+  </g>
+  <g transform="translate(6 52) scale(.285)"><defs xmlns="http://www.w3.org/2000/svg"><linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FCFAFF" /><stop offset="1" stop-color="#E6E2F0" /></linearGradient><linearGradient id="fold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C6B9EB" /><stop offset="1" stop-color="#AEA0D9" /></linearGradient></defs><path xmlns="http://www.w3.org/2000/svg" fill="url(#body)" fill-rule="evenodd" d="M680,248C475,267 295,359 267,545C233,762 370,969 581,987C823,1008 1028,801 997,537C990,476 974,459 970,514C957,672 848,828 737,840C624,854 602,721 565,615C535,524 483,442 365,405C506,428 550,398 602,320C626,283 657,250 680,248Z M333,630h26q9,0 9,9v26q0,9 -9,9h-26q-9,0 -9,-9v-26q0,-9 9,-9z M400,630h26q9,0 9,9v26q0,9 -9,9h-26q-9,0 -9,-9v-26q0,-9 9,-9z M467,630h26q9,0 9,9v26q0,9 -9,9h-26q-9,0 -9,-9v-26q0,-9 9,-9z M333,701h26q9,0 9,9v26q0,9 -9,9h-26q-9,0 -9,-9v-26q0,-9 9,-9z M400,701h26q9,0 9,9v26q0,9 -9,9h-26q-9,0 -9,-9v-26q0,-9 9,-9z M467,701h26q9,0 9,9v26q0,9 -9,9h-26q-9,0 -9,-9v-26q0,-9 9,-9z" /><path xmlns="http://www.w3.org/2000/svg" fill="url(#fold)" fill-rule="evenodd" d="M365,405C507,427 550,398 602,320C638,266 687,220 701,266C721,331 650,473 609,591C556,489 486,424 365,405Z" /></g>
+</svg>
